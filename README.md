@@ -2,7 +2,7 @@
 
 ![flight2](https://github.com/user-attachments/assets/85aca370-4a6d-47d8-a4e1-cf47995125f3)
 
-![flight1](https://github.com/user-attachments/assets/7ccda811-da6a-42ba-a98a-edf7ad5bb141)
+![flight1](https://github.com/user-attachments/assets/469150b1-e102-4355-9ea5-02fd7f77643e)
 
 _Developed a machine learning model to predict flight ticket prices based on a dataset including flight timings, departure and arrival dates, source, destination, and route. The model was trained and tested to predict ticket costs accurately._
 

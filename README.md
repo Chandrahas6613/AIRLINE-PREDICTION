@@ -12,3 +12,17 @@
 
 ### - This repository represents,"_Predicting The Flight Price Through Flight Details._"
 ### - With the help of this project we can learn the airline price through the airline details before booking the airline ticket.
+
+> [!IMPORTANT]
+> 
+> _**Key Technologies:**_
+>
+> _**Programming Languages:** Python_
+> 
+> _**Libraries/Frameworks:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, FlasK._
+> 
+> _**Data Storage:** Excel Sheets_
+> 
+> _**Tools:** Visual Studio_
+>
+> _**Machine Learning Techniques:** Regression models_

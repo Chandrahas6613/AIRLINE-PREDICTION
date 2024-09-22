@@ -26,3 +26,5 @@
 > _**Tools:** Visual Studio_
 >
 > _**Machine Learning Techniques:** Regression models_
+
+![FLIGHT3](https://github.com/user-attachments/assets/2a0d6ef7-6287-43d9-b9e1-b94dcdc46946)

@@ -10,5 +10,5 @@
 
 ![flight3](https://github.com/user-attachments/assets/e6e023c7-9515-4258-963e-3cccf0d50c75)
 
-###  This repository represents,"_Predicting The Flight Price Through Flight Details._"
-###  With the help of this project we can learn the airline price through the airline details before booking the airline ticket.
+### - This repository represents,"_Predicting The Flight Price Through Flight Details._"
+### - With the help of this project we can learn the airline price through the airline details before booking the airline ticket.

@@ -1,4 +1,4 @@
-# AIRLINE-PRICE-PREDICTION
+# FLIGHT-PRICE-PREDICTION
 
 ![flight2](https://github.com/user-attachments/assets/85aca370-4a6d-47d8-a4e1-cf47995125f3)
 
